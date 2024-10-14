@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/samartho4](https://github.com/samartho4)
 
-- 📝 Check out my blogs. (https://medium.com/@samarthx04))
+- 📝 Check out my blogs. (https://medium.com/@samarthx04)
 
 - 📫 How to reach me **info@antimatterstechnology.com**
 

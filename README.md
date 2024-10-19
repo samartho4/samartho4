@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samartho4&label=Profile%20views&color=0e75b6&style=flat" alt="samartho4" /> </p>
 
 
-- 👨‍💻 All of my projects are available at https://github.com/samartho4](https://github.com/samartho4
+- 👨‍💻 All of my projects are available at https://github.com/samartho4
 
 - 📝 Check out my blogs at https://medium.com/@samarthx04
 

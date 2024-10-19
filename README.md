@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samartho4&label=Profile%20views&color=0e75b6&style=flat" alt="samartho4" /> </p>
 
 
-- 👨‍💻 All of my projects are available at https://github.com/samartho4
+- 👨‍💻 Let's connect (https://www.linkedin.com/in/samarthxsharma/)
 
 - 📝 Check out my blogs at https://medium.com/@samarthx04
 
-- 📫 How to reach me **info@antimatterstechnology.com**
+- 📫 Reach me at **info@antimatterstechnology.com**
 

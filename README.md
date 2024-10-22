@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samartho4&label=Profile%20views&color=0e75b6&style=flat" alt="samartho4" /> </p>
 
 
-- 👨‍💻 Let's connect (https://www.linkedin.com/in/samarthxsharma/)
+- 👨‍💻 Let's connect https://www.linkedin.com/in/samarthxsharma/
 
 - 📝 Check out my blogs at https://medium.com/@samarthx04
 

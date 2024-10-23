@@ -8,5 +8,4 @@
 
 - 📝 Check out my blogs at https://medium.com/@samarthx04
 
-- 📫 Reach me at **info@antimatterstechnology.com**
 

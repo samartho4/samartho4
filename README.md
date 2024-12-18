@@ -1,12 +1,7 @@
 
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samartho4&label=Profile%20views&color=0e75b6&style=flat" alt="samartho4" /> </p>
-
-
 <!-- Hi 👋, I'm Your Name -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from Your Country who Always tries to TRY :)</h3>
+<h1 align="center">Hi 👋, I'm Samarth Sharma</h1>
+
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
@@ -14,14 +9,6 @@
 
 ---
 
-### 🌟 **About Me**
-
-- 🔭 I’m currently working on **[Your Current Project](#)**
-- 🌱 I’m currently learning **React Native**, **Node.js**, and **Next.js**
-- ⚡ Fun fact: **I love tech, music, and sports.**
-- 📫 How to reach me: **[youremail@example.com](mailto:youremail@example.com)**  
-
----
 
 ### 🚀 **Languages and Tools:**
 

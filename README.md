@@ -32,28 +32,6 @@
 
 ---
 
-### 🚀 **Languages & Frameworks**
-
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samartho4&theme=radical" />
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samartho4&theme=radical" />
-</p>
-
----
-
-
-### 🚀 **Pinned Projects**
-
-<p align="center">
-  <a href="https://github.com/samartho4/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samartho4&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/samartho4/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samartho4&repo=project2&theme=radical&hide_border=true" />
-  </a>
-</p>
-
----
 
 ### 🌐 **Connect With Me**
 

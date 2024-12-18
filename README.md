@@ -10,6 +10,9 @@
 <p align="center">Crafting Code | Solving Problems | Learning Continuously | Sharing Knowledge </p>
 
 ---
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
 ### 🛠️ **Languages and Tools**

@@ -1,73 +1,96 @@
-
-<!-- Hi 👋, I'm Your Name -->
-<h1 align="center">Hi 👋, I'm Samarth Sharma</h1>
-
-
+<!-- Header Section -->
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0EFFF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Samarth+Sharma!+%F0%9F%91%8B;A+Passionate+Developer+%7C+Open+Source+Contributor;Solving+Problems+%26+Building+Projects+Like+a+Pro;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- Introduction Section -->
+<h1 align="center">🚀 Welcome to My GitHub World 🚀</h1>
+<p align="center">Crafting Code, Solving Problems, and Contributing to Open Source Projects.</p>
 
-### 🚀 **Languages and Tools:**
+---
+
+### 📊 **GitHub Performance**
 
 <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript" />
-    <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <a href="https://github.com/samartho4">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=samartho4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="Samarth's GitHub Stats" />
+    </a>
+    <a href="https://github.com/samartho4">
+        <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=samartho4&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </a>
 </p>
 
 ---
 
-### 📊 **GitHub Stats:**
+### 💻 **Top Skills and Tools**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="yourusername stats" />
-    <br />
-    <img src="https://streak-stats.demolab.com?user=yourusername&theme=dark" alt="yourusername streak" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,aws,git,github,docker,figma,vscode,mysql,html,css" alt="Skills and Tools" />
 </p>
 
 ---
 
-### 🎵 **Spotify Currently Playing** 🎧
+### 🚀 **Languages & Frameworks**
+
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samartho4&theme=radical" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samartho4&theme=radical" />
+</p>
+
+---
+
+### 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samartho4&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔥 **Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samartho4&theme=radical&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🚀 **Pinned Projects**
+
+<p align="center">
+  <a href="https://github.com/samartho4/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samartho4&repo=project1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/samartho4/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samartho4&repo=project2&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="https://linkedin.com/in/samarthxsharma"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/sxmarthx"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/samartho4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://medium.com/@samarthx04"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://instagram.com/samarth_o4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎧 **Spotify Now Playing**
 
 <p align="center">
     <a href="https://open.spotify.com/user/your_spotify_id">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&bar_color=53b14f" alt="Spotify Now Playing" />
     </a>
 </p>
 
 ---
 
-### 🌐 **Connect With Me:**
+⭐ **Built with ❤️ by [Samarth Sharma](https://www.linkedin.com/in/samarthxsharma/).**
 
-<p align="center">
-    <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" /></a>
-    <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### 📌 **Pinned Projects**
-
-<p align="center">
-    <a href="https://github.com/yourusername/project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark" />
-    </a>
-    <a href="https://github.com/yourusername/project2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark" />
-    </a>
-</p>
-
----
-
-⭐ **Credits**: Generated with ❤️ by **[Your Name]**

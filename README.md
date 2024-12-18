@@ -41,21 +41,6 @@
 
 ---
 
-### 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samartho4&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔥 **Activity Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samartho4&theme=radical&hide_border=true" alt="Activity Graph" />
-</p>
-
----
 
 ### 🚀 **Pinned Projects**
 
@@ -91,6 +76,4 @@
 </p>
 
 ---
-
-⭐ **Built with ❤️ by [Samarth Sharma](https://www.linkedin.com/in/samarthxsharma/).**
 

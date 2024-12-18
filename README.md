@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,cpp,html,css" />
   <!-- Backend & Databases -->
   <img src="https://skillicons.dev/icons?i=django,mysql,postgres,mongodb,sqlite" />
-  <br/>
+
   <!-- DevOps and Tools -->
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,heroku,vscode,figma,postman" />
 

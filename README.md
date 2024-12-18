@@ -7,7 +7,7 @@
 
 <!-- Introduction Section -->
 <h1 align="center">🚀 Welcome to My GitHub Universe 🚀</h1>
-<p align="center">Crafting Code | Solving Problems | Learning Continuously | Sharing Knowledge 🚀</p>
+<p align="center">Crafting Code | Solving Problems | Learning Continuously | Sharing Knowledge </p>
 
 ---
 

@@ -43,21 +43,6 @@
   <img src="https://skillicons.dev/icons?i=linux,redis,bash,webpack,graphql,cloudflare" />
 </p>
 
----
-
-### 🏆 **Achievements**
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=samartho4&theme=radical&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔥 **Contribution Graph**
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samartho4&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
 
 ---
 

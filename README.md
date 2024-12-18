@@ -11,21 +11,6 @@
 
 ---
 
-### 📊 **GitHub Performance**
-
-<p align="center">
-    <a href="https://github.com/samartho4">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=samartho4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="Samarth's GitHub Stats" />
-    </a>
-    <a href="https://github.com/samartho4">
-        <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=samartho4&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </a>
-    <a href="https://github.com/samartho4">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samartho4&theme=radical" alt="Profile Summary" />
-    </a>
-</p>
-
----
 
 ### 🛠️ **Languages and Tools**
 

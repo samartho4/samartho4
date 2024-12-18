@@ -51,7 +51,6 @@
   <a href="https://instagram.com/samarth_o4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://app.opensauced.pizza/u/samartho4"><img src="https://img.shields.io/badge/OpenSauced-orange?style=for-the-badge&logo=opensauced&logoColor=white" /></a>
   <a href="https://www.kaggle.com/samarth4kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://eagle.cool/samarth"><img src="https://img.shields.io/badge/Eagle-0078D4?style=for-the-badge&logo=eagle&logoColor=white" /></a>
   <a href="https://huggingface.co/samartho4"><img src="https://img.shields.io/badge/HuggingFace-FEB75C?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
 </p>
 

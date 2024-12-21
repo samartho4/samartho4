@@ -64,5 +64,7 @@
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&bar_color=53b14f" alt="Spotify Now Playing" />
     </a>
 </p>
+### Spotify Playing 🎧
+![Beautiful People - Ed Sheeran](https://via.placeholder.com/600x200?text=Beautiful+People+by+Ed+Sheeran)
 
 ---

@@ -66,5 +66,14 @@
 </p>
 ### Spotify Playing 🎧
 ![Beautiful People - Ed Sheeran](https://via.placeholder.com/600x200?text=Beautiful+People+by+Ed+Sheeran)
+### Spotify Playing 🎧
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-path/album-cover.png" width="250" alt="Album Cover" />
+</p>
+<p align="center">
+  <b>Beautiful People</b> <br />
+  <i>by Ed Sheeran</i>
+</p>
 
 ---

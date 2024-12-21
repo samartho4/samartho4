@@ -59,22 +59,17 @@
 
 ### Spotify Playing 🎧
 
-<div align="center" style="font-family: Arial, sans-serif; line-height: 1.5;">
-  <img src="https://via.placeholder.com/300x300.png?text=Album+Cover" 
+<div align="center" style="font-family: Arial, sans-serif;">
+  <img src="https://via.placeholder.com/250x250.png?text=Album+Cover" 
        alt="Album Cover" 
        width="250" 
-       style="border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3); margin-bottom: 20px;">
-  
-  <h2 style="margin: 0; color: #FFFFFF; font-size: 22px;">Beautiful People (feat. Khalid)</h2>
-  <p style="margin: 5px 0 20px; color: #AAAAAA; font-size: 16px; font-style: italic;">Ed Sheeran</p>
-
-  <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #1DB954, #1ED760); 
-              border-radius: 5px; display: flex; align-items: center; justify-content: center; box-shadow: inset 0px -1px 5px rgba(0, 0, 0, 0.3);">
-    <img src="https://via.placeholder.com/280x20.png?text=Audio+Waveform" 
-         alt="Audio Waveform" 
-         width="280" 
-         style="border-radius: 2px;">
-  </div>
+       style="border-radius: 15px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);">
+  <h2 style="margin: 10px 0; color: #1DB954; font-size: 24px;">Beautiful People (feat. Khalid)</h2>
+  <p style="font-size: 18px; color: #555; font-style: italic; margin: -10px 0 20px;">Ed Sheeran</p>
+  <img src="https://via.placeholder.com/500x50.png?text=Audio+Waveform" 
+       alt="Audio Waveform" 
+       width="300" 
+       style="border-radius: 5px;">
 </div>
 
 

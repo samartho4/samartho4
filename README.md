@@ -65,15 +65,13 @@
     </a>
 </p>
 ### Spotify Playing 🎧
-![Beautiful People - Ed Sheeran](https://via.placeholder.com/600x200?text=Beautiful+People+by+Ed+Sheeran)
-### Spotify Playing 🎧
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path/album-cover.png" width="250" alt="Album Cover" />
-</p>
-<p align="center">
-  <b>Beautiful People</b> <br />
-  <i>by Ed Sheeran</i>
-</p>
+<div align="center">
+  <img src="https://via.placeholder.com/300x300.png?text=Album+Cover" alt="Album Cover" width="250" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
+  <h3 style="margin-top: 10px;">Beautiful People (feat. Khalid)</h3>
+  <p style="font-style: italic; color: #666;">Ed Sheeran</p>
+  <img src="https://user-images.githubusercontent.com/your-audio-waveform.png" alt="Audio Waveform" width="300">
+</div>
+
 
 ---

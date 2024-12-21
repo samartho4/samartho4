@@ -59,18 +59,29 @@
 
 ### Spotify Playing 🎧
 
-<div align="center" style="font-family: Arial, sans-serif;">
+<div align="center">
+  <!-- Album Cover -->
   <img src="https://via.placeholder.com/250x250.png?text=Album+Cover" 
        alt="Album Cover" 
        width="250" 
-       style="border-radius: 15px; box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);">
-  <h2 style="margin: 10px 0; color: #1DB954; font-size: 24px;">Beautiful People (feat. Khalid)</h2>
-  <p style="font-size: 18px; color: #555; font-style: italic; margin: -10px 0 20px;">Ed Sheeran</p>
+       style="border-radius: 15px;">
+  
+  <!-- Song Title -->
+  <h2>
+    Beautiful People (feat. Khalid)
+  </h2>
+
+  <!-- Artist Name -->
+  <p>
+    <i>Ed Sheeran</i>
+  </p>
+
+  <!-- Waveform -->
   <img src="https://via.placeholder.com/500x50.png?text=Audio+Waveform" 
        alt="Audio Waveform" 
-       width="300" 
-       style="border-radius: 5px;">
+       width="300">
 </div>
+
 
 
 

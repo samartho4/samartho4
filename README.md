@@ -57,21 +57,26 @@
 
 ---
 
-### 🎧 **Spotify Now Playing**
-
-<p align="center">
-    <a href="https://open.spotify.com/user/your_spotify_id">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&bar_color=53b14f" alt="Spotify Now Playing" />
-    </a>
-</p>
 ### Spotify Playing 🎧
 
-<div align="center">
-  <img src="https://via.placeholder.com/300x300.png?text=Album+Cover" alt="Album Cover" width="250" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
-  <h3 style="margin-top: 10px;">Beautiful People (feat. Khalid)</h3>
-  <p style="font-style: italic; color: #666;">Ed Sheeran</p>
-  <img src="https://user-images.githubusercontent.com/your-audio-waveform.png" alt="Audio Waveform" width="300">
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.5;">
+  <img src="https://via.placeholder.com/300x300.png?text=Album+Cover" 
+       alt="Album Cover" 
+       width="250" 
+       style="border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3); margin-bottom: 20px;">
+  
+  <h2 style="margin: 0; color: #FFFFFF; font-size: 22px;">Beautiful People (feat. Khalid)</h2>
+  <p style="margin: 5px 0 20px; color: #AAAAAA; font-size: 16px; font-style: italic;">Ed Sheeran</p>
+
+  <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #1DB954, #1ED760); 
+              border-radius: 5px; display: flex; align-items: center; justify-content: center; box-shadow: inset 0px -1px 5px rgba(0, 0, 0, 0.3);">
+    <img src="https://via.placeholder.com/280x20.png?text=Audio+Waveform" 
+         alt="Audio Waveform" 
+         width="280" 
+         style="border-radius: 2px;">
+  </div>
 </div>
+
 
 
 ---

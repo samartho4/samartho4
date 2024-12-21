@@ -61,11 +61,11 @@
 
 <div align="center">
   <!-- Album Cover -->
-  <img src="https://via.placeholder.com/250x250.png?text=Album+Cover" 
+  <img src="https://github.com/your-username/your-repo-name/blob/main/path-to-your-album-cover.png?raw=true" 
        alt="Album Cover" 
        width="250" 
        style="border-radius: 15px;">
-  
+
   <!-- Song Title -->
   <h2>
     Beautiful People (feat. Khalid)
@@ -77,12 +77,10 @@
   </p>
 
   <!-- Waveform -->
-  <img src="https://via.placeholder.com/500x50.png?text=Audio+Waveform" 
+  <img src="https://github.com/your-username/your-repo-name/blob/main/path-to-your-waveform.png?raw=true" 
        alt="Audio Waveform" 
        width="300">
 </div>
-
-
 
 
 ---

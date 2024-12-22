@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0EFFF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Samarth+Sharma!+%F0%9F%91%8B;A+Passionate+Developer+%7C+Open+Source+Contribr;Building+Projects+%26+Solving+Problems+Like+a+Pro;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0EFFF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Samarth+Sharma!+%F0%9F%91%8B;Looking+for+Partners+to+Collaborate+and+Innovate! alt="Typing SVG" />
 </p>
 
 ---

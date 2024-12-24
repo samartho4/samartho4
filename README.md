@@ -53,5 +53,5 @@
   <a href="https://www.kaggle.com/samarth4kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://huggingface.co/samartho4"><img src="https://img.shields.io/badge/HuggingFace-FEB75C?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
 </p>
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samartho4)](https://github.com/samartho4)
 

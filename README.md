@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-Samartho4&label=visitors&color=purple&style=flat" alt="Visitors Count" />
+  <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-samartho4&label=visitors&color=purple&style=flat" alt="Visitors Count" />
 </p>
 
 ---

@@ -30,7 +30,11 @@
   <img src="https://skillicons.dev/icons?i=linux,redis,bash,webpack,graphql,cloudflare" />
 </p>
 
-
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samartho4&theme=radical&show_icons=true" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com/?user=samartho4&theme=radical" alt="GitHub Streak">
+</div><br />
 ---
 
 ### 🌐 **Connect With Me**

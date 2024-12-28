@@ -3,22 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0EFFF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Samarth+Sharma!+%F0%9F%91%8B;Looking+for+Collaboration!"Typing SVG" />
 </p>
 
----
-
-<!-- Introduction Section -->
-<h1 align="center">🚀 Welcome to My GitHub Universe 🚀</h1>
-<p align="center">Crafting Code | Solving Problems | Learning Continuously | Sharing Knowledge </p>
-
----
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=samartho4&label=visitors&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samartho4&theme=radical&show_icons=true" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=samartho4&theme=radical" alt="GitHub Streak">
-</div><br />
----
 
 ### 🛠️ **Languages and Tools**
 

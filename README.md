@@ -27,7 +27,8 @@
 
 ---
 
-### 🌐 **Connect With Me**
+### 🌐 **Connect[![Connect](https://img.shields.io/badge/Connect%20with%20Me-blue?style=for-the-badge)](https://github.com/samartho4/blob/main/CONNECT.md)
+ With Me**
 
 <p align="center">
   <a href="https://linkedin.com/in/samarthxsharma">

@@ -28,10 +28,11 @@
 ---
 
 <h2 align="center">
-  <a href="https://github.com/samartho4/CONNECT.md">
+  <a href="https://github.com/samartho4/blob/main/CONNECT.md">
     <img src="https://github.com/samartho4/assets/raw/main/golden_button.gif" alt="CONNECT WITH ME" width="250">
   </a>
 </h2>
+
 
 
 

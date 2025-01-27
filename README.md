@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/samartho4/blob/main/CONNECT.md">
+  <a href="https://github.com/samartho4/CONNECT.md">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=300&lines=🔗+CLICK+HERE+TO+CONNECT!" alt="Connect with me">
   </a>
 </p>

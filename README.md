@@ -27,7 +27,7 @@
 
 ---
 
-### 🌐 [![Connect](https://img.shields.io/badge/Connect%20with%20Me-blue?style=for-the-badge)](https://github.com/samartho4/blob/main/CONNECT.md)
+### [![Connect](https://img.shields.io/badge/Connect%20with%20Me-blue?style=for-the-badge)](https://github.com/samartho4/blob/main/CONNECT.md)
 
 
 <p align="center">

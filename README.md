@@ -29,7 +29,7 @@
 
 <h2 align="center">
   <a href="https://github.com/samartho4/blob/main/CONNECT.md">
-    <img src="https://github.com/samartho4/assets/raw/main/golden_button.gif" alt="CONNECT WITH ME" width="250">
+    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-F7C232?style=for-the-badge&logo=link&logoColor=white">
   </a>
 </h2>
 

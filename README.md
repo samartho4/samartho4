@@ -27,11 +27,12 @@
 
 ---
 
-<h2 align="center">
-  <a href="https://github.com/samartho4/blob/main/CONNECT.md">
-    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-F7C232?style=for-the-badge&logo=link&logoColor=white">
+<p align="center">
+  <a href="https://github.com/samartho4/CONNECT.md">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C232&center=true&vCenter=true&width=300&lines=CONNECT+WITH+ME" alt="Connect with me">
   </a>
-</h2>
+</p>
+
 
 
 

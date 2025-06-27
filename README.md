@@ -46,7 +46,4 @@
   <a href="https://www.kaggle.com/samarth4kaggle">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://huggingface.co/samartho4">
-    <img src="https://img.shields.io/badge/HuggingFace-FEB75C?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
-  </a>
 </p>

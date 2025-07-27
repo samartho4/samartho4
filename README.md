@@ -10,12 +10,6 @@ i am a graduate software engineering student at the Seneca College, doing indepe
 please reach out on email samarthx04 [at] gmail [dot] com
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samartho4&show_icons=true&theme=dark" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samartho4&theme=dark" alt="Commit Streak" width="45%">
-</p>
-
 ---
 
 <!-- Social Badges -->
@@ -31,8 +25,5 @@ please reach out on email samarthx04 [at] gmail [dot] com
   </a>
   <a href="https://hashnode.com/@samartho4" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-  </a>
-  <a href="https://www.kaggle.com/samarth4kaggle" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>

@@ -1,12 +1,9 @@
 <!-- Header Section -->
-
-<p align="center">
-  
-hi, i'm samarth!
-
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=samartho4&label=Profile%20views&color=0e75b6&style=flat" alt="samartho4" />
 </p>
+<p >
+hi, i'm samarth!
 
 i am a graduate software engineering student at the Seneca College, doing independent DL research . 
 

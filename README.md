@@ -10,7 +10,11 @@ i am a graduate software engineering student at the Seneca College, doing indepe
 please reach out on email samarthx04 [at] gmail [dot] com
 </p>
 
-
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samartho4&show_icons=true&theme=dark" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samartho4&theme=dark" alt="Commit Streak" width="45%">
+</p>
 
 ---
 

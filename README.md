@@ -5,7 +5,7 @@
 <p >
 hi, i'm samarth!
 
-i am a graduate software engineering student at the Seneca College, doing independent DL research . 
+i am a graduate software engineering student at the Seneca College, doing independent DL research with interests in scaling models to do useful things.
 
 please reach out on email samarthx04 [at] gmail [dot] com
 </p>
